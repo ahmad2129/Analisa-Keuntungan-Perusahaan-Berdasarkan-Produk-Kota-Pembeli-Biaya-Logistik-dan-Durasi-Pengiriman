@@ -65,9 +65,6 @@ Analisis dilakukan menggunakan SQL dengan tahapan berikut:
 - Menampilkan kombinasi kategori dan kota dengan keuntungan terkecil (kerugian)
 - Menghitung jumlah transaksi berdasarkan kategori transaksi (kecil, sedang, besar)
 
-> 📷 Tambahkan screenshot hasil query di sini:
-> `![Hasil Query](images/query_result.png)`
-
 ## 📊 Presentasi Project
 Untuk melihat penjelasan lengkap dari project ini, silakan lihat slide presentasi berikut:
 
