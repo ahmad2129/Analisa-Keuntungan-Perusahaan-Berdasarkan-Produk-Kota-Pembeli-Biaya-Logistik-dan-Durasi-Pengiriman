@@ -71,7 +71,7 @@ Untuk melihat penjelasan lengkap dari project ini, silakan lihat slide presentas
 🔗 [Slide Presentasi](https://github.com/ahmad2129/Analisis-Keuntungan-Perusahaan-Berdasarkan-Produk-Kota-Pembeli-Biaya-Logistik-dan-Durasi-Pengiriman/blob/main/report/Presentasi%20Mini%20Project%20SQL%201%20Ahmad%20Malik%20Ibrahim.pdf)
 
 ## 🛠 Tools yang Digunakan
-- **SQL** (Data Exploration, Data Cleaning, Feature Engineering, dan Analisis)
+- **PostgreSQL** (Data Exploration, Data Cleaning, Feature Engineering, dan Analisis)
 
 ## 👤 Author
 **Ahmad Malik Ibrahim**
